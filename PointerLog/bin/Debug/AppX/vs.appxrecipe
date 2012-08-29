@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JEROME-MACBOOK</Machine>
+    <WindowsUser>jeromeof</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>CF4FD1B3E7DDD436D6D552C7BA0CCB620538C317CA05D6B55DB666E2454A396A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a77c231f-68df-415c-a659-a9832e8cbecd_1.0.0.0_neutral__tzknp1fas5nm8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a77c231f-68df-415c-a659-a9832e8cbecd_tzknp1fas5nm8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a77c231f-68df-415c-a659-a9832e8cbecd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Charles</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-29T21:49:11.944</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\RaptTouchLog.exe">
+      <PackagePath>RaptTouchLog.exe</PackagePath>
+      <Modified>2012-08-29T21:59:06.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\RaptTouchLog.pdb">
+      <PackagePath>RaptTouchLog.pdb</PackagePath>
+      <Modified>2012-08-29T21:59:06.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-29T20:55:14.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-29T19:12:06.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-29T21:51:29.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-29T21:50:08.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-29T20:25:31.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\LoggerControl.xaml">
+      <PackagePath>LoggerControl.xaml</PackagePath>
+      <Modified>2012-08-29T20:25:31.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-08-29T19:12:06.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-08-29T21:02:20.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-29T21:49:11.891</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

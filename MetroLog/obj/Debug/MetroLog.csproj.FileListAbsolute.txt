@@ -1,0 +1,28 @@
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\bin\Debug\MetroLog.dll
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\bin\Debug\MetroLog.pdb
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\bin\Debug\MetroLog.pri
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\MetroLog.dll
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\MetroLog.pdb
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\priconfig.xml.intermediate
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\layout.resfiles.intermediate
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\resources.resfiles.intermediate
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\pri.resfiles.intermediate
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\priconfig.xml
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\layout.resfiles
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\resources.resfiles
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\pri.resfiles
+C:\Users\jeromeof\Downloads\mbrit-MetroLog-73601a5\mbrit-MetroLog-73601a5\MetroLog\obj\Debug\LanguageQualifiers.txt
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\bin\Debug\MetroLog.dll
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\bin\Debug\MetroLog.pdb
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\bin\Debug\MetroLog.pri
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\MetroLog.dll
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\MetroLog.pdb
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\priconfig.xml
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\layout.resfiles
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\resources.resfiles
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\pri.resfiles
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\LanguageQualifiers.txt
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\priconfig.xml.intermediate
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\layout.resfiles.intermediate
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\resources.resfiles.intermediate
+C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\MetroLog\obj\Debug\pri.resfiles.intermediate
