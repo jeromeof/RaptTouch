@@ -3,6 +3,18 @@ sample application with added support for remote Logging via MetroLog.
 
 Open the Rapt-Touch-Logger.sln in Developer Studio and build it.
 
-If you run it will log events at trace level to the Windows debug logger. A 'Metro style' has
-restrictions on where it can log and most developers recommend using the debug logger with the
-added advantage of the MetroLog support is to allow for different output formats and log levels.
+When it is run, it creates a nice one screen log of the different touch and mouse events. You can 
+use clear to clear the screen for the next event.
+
+If you run the application it will log events at trace level to the Windows debug logger. A 'Metro
+style' has restrictions on where it can log and most developers recommend using the debug logger 
+with the added advantage of the MetroLog support is to allow for different output formats and log 
+levels.
+
+So, to see the output log either run the application in debug and the events are logged as they 
+happen in the output log or download DebugView from Microsoft, run as Admin and either run in the 
+background or remotely connect to the windows8 tablet and look at the events as they happen.
+
+I tested it with Splashtop, the trackpad and an external mouse and it seemed to get events (and
+log them differently from each), splashtop was able to generate multi-touch events.
+
