@@ -1,0 +1,8 @@
+Initial version of a Rapt-Touch Logger - heavily inpired by a Charles Petzold PointerLog 
+sample application with added support for remote Logging via MetroLog.
+
+Open the Rapt-Touch-Logger.sln in Developer Studio and build it.
+
+If you run it will log events at trace level to the Windows debug logger. A 'Metro style' has
+restrictions on where it can log and most developers recommend using the debug logger with the
+added advantage of the MetroLog support is to allow for different output formats and log levels.
