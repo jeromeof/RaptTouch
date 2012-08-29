@@ -87,6 +87,7 @@ namespace RaptTouchLog
             uint id = args.Pointer.PointerId;
             PointerInfo pointerInfo;
             string event_string = "";
+            string header_string = "";
 
             if (pointerDictionary.ContainsKey(id))
             {
@@ -119,6 +120,8 @@ namespace RaptTouchLog
                 Grid.SetColumn(stackPanel, contentGrid.ColumnDefinitions.Count - 1);
                 contentGrid.Children.Add(stackPanel);
             }
+
+            header_string = id + " - " + args.Pointer.PointerId + " - " + args.Pointer.PointerDeviceType;
 
             // Don't repeat PointerMoved and PointerWheelChanged events
             TextBlock txtblk = null;
@@ -161,7 +164,7 @@ namespace RaptTouchLog
             }
 
             // OK lets add this to the logger in the background.
-            logger.Trace(event_string);
+            logger.Trace(header_string + event_string);
 
         }
 
