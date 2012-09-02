@@ -9,6 +9,6 @@
     d:DesignHeight="300"
     d:DesignWidth="400">
     
-    <Grid Name="contentGrid" Background="Transparent" />
+    <Grid Name="contentGrid" Background="Transparent" ManipulationMode="All" />
     
 </UserControl>

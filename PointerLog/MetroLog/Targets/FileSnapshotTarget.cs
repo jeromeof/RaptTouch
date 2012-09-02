@@ -14,7 +14,7 @@ namespace MetroLog.Targets
     {
         public static StorageFolder _logFolder = null;
 
-        private const string LogFolderName = "MetroLogs";
+        private const string LogFolderName = "RaptTouchLogs";
 
         public FileSnapshotTarget()
             : this(new FileSnapshotLayout())

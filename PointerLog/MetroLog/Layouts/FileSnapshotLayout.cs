@@ -11,17 +11,15 @@ namespace MetroLog.Layouts
         protected internal override string GetFormattedString(LogEventInfo info)
         {
             StringBuilder builder = new StringBuilder();
-            builder.Append("Sequence: ");
+            builder.Append("Seq: ");
             builder.Append(info.SequenceID);
-            builder.Append("\r\nDate/time: ");
+            builder.Append(" Time: ");
             builder.Append(info.TimeStamp.ToString(LogManager.DateTimeFormat));
-            builder.Append("\r\nLevel: ");
-            builder.Append(info.Level.ToString().ToUpper());
-            builder.Append("\r\nThread: ");
+            builder.Append(" Thread: ");
             builder.Append(Environment.CurrentManagedThreadId);
-            builder.Append("\r\nLogger: ");
+            builder.Append(" Logger: ");
             builder.Append(info.Logger);
-            builder.Append("\r\n------------------------\r\n");
+            builder.Append(" - ");
             builder.Append(info.Message);
 
             if(info.Exception != null)

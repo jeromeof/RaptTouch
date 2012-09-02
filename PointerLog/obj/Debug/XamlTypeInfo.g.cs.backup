@@ -139,6 +139,9 @@ namespace RaptTouchLog.Rapt_Touch_Logger_XamlTypeInfo
             case "RaptTouchLog.LoggerControl":
                 userType = new global::RaptTouchLog.Rapt_Touch_Logger_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::RaptTouchLog.LoggerControl), GetXamlTypeByName("Windows.UI.Xaml.Controls.UserControl"));
                 userType.Activator = Activate_0_LoggerControl;
+                userType.AddMemberName("TraceLevelLogging");
+                AddToMapOfTypeToStandardName(typeof(global::System.Boolean),
+                                                   "Boolean");
                 userType.AddMemberName("CaptureOnPress");
                 AddToMapOfTypeToStandardName(typeof(global::System.Boolean),
                                                    "Boolean");
@@ -156,12 +159,22 @@ namespace RaptTouchLog.Rapt_Touch_Logger_XamlTypeInfo
         }
 
 
-        private object get_0_LoggerControl_CaptureOnPress(object instance)
+        private object get_0_LoggerControl_TraceLevelLogging(object instance)
+        {
+            var that = (global::RaptTouchLog.LoggerControl)instance;
+            return that.TraceLevelLogging;
+        }
+        private void set_0_LoggerControl_TraceLevelLogging(object instance, object Value)
+        {
+            var that = (global::RaptTouchLog.LoggerControl)instance;
+            that.TraceLevelLogging = (global::System.Boolean)Value;
+        }
+        private object get_1_LoggerControl_CaptureOnPress(object instance)
         {
             var that = (global::RaptTouchLog.LoggerControl)instance;
             return that.CaptureOnPress;
         }
-        private void set_0_LoggerControl_CaptureOnPress(object instance, object Value)
+        private void set_1_LoggerControl_CaptureOnPress(object instance, object Value)
         {
             var that = (global::RaptTouchLog.LoggerControl)instance;
             that.CaptureOnPress = (global::System.Boolean)Value;
@@ -174,11 +187,17 @@ namespace RaptTouchLog.Rapt_Touch_Logger_XamlTypeInfo
 
             switch (longMemberName)
             {
+            case "RaptTouchLog.LoggerControl.TraceLevelLogging":
+                userType = (global::RaptTouchLog.Rapt_Touch_Logger_XamlTypeInfo.XamlUserType)GetXamlTypeByName("RaptTouchLog.LoggerControl");
+                xamlMember = new global::RaptTouchLog.Rapt_Touch_Logger_XamlTypeInfo.XamlMember(this, "TraceLevelLogging", "Boolean");
+                xamlMember.Getter = get_0_LoggerControl_TraceLevelLogging;
+                xamlMember.Setter = set_0_LoggerControl_TraceLevelLogging;
+                break;
             case "RaptTouchLog.LoggerControl.CaptureOnPress":
                 userType = (global::RaptTouchLog.Rapt_Touch_Logger_XamlTypeInfo.XamlUserType)GetXamlTypeByName("RaptTouchLog.LoggerControl");
                 xamlMember = new global::RaptTouchLog.Rapt_Touch_Logger_XamlTypeInfo.XamlMember(this, "CaptureOnPress", "Boolean");
-                xamlMember.Getter = get_0_LoggerControl_CaptureOnPress;
-                xamlMember.Setter = set_0_LoggerControl_CaptureOnPress;
+                xamlMember.Getter = get_1_LoggerControl_CaptureOnPress;
+                xamlMember.Setter = set_1_LoggerControl_CaptureOnPress;
                 break;
             }
             return xamlMember;

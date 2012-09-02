@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-08-29T21:49:11.944</Modified>
+      <Modified>2012-09-02T20:21:34.276</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\RaptTouchLog.exe">
       <PackagePath>RaptTouchLog.exe</PackagePath>
-      <Modified>2012-08-29T21:59:06.580</Modified>
+      <Modified>2012-09-02T20:21:34.160</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\RaptTouchLog.pdb">
       <PackagePath>RaptTouchLog.pdb</PackagePath>
-      <Modified>2012-08-29T21:59:06.560</Modified>
+      <Modified>2012-09-02T20:21:34.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -54,7 +54,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\LoggerControl.xaml">
       <PackagePath>LoggerControl.xaml</PackagePath>
-      <Modified>2012-08-29T20:25:31.973</Modified>
+      <Modified>2012-09-02T19:58:20.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
@@ -66,7 +66,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jeromeof\Documents\Visual Studio 2012\Projects\PointerLog\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-08-29T21:49:11.891</Modified>
+      <Modified>2012-09-02T20:21:34.221</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
